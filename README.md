@@ -2,7 +2,7 @@
 
 Executar o projeto pelo **dockerhub**
 ```
-docker push dockerph/fullcycle:latest
+docker pull dockerph/fullcycle
 ```
 
 # Clone do projeto
